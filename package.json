@@ -1,6 +1,9 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
+  "bin": {
+	"brain-games": "bin/brain-games.js"	  
+  },
   "type": "module",
   "description": "brain games project",
   "main": "index.js",
@@ -21,8 +24,5 @@
     "url": "https://github.com/deadcadet/frontend-project-lvl1/issues"
   },
   "homepage": "https://github.com/deadcadet/frontend-project-lvl1#readme"
-  "bin": {
-     "brain-games": "bin/brain-games.js"
-  }
-
 }
+
