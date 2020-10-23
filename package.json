@@ -21,7 +21,8 @@
     "url": "https://github.com/deadcadet/frontend-project-lvl1/issues"
   },
   "homepage": "https://github.com/deadcadet/frontend-project-lvl1#readme"
-}
-"bin": {
-	"brain-games": "bin/brain-games.js"
+  "bin": {
+     "brain-games": "bin/brain-games.js"
+  }
+
 }
